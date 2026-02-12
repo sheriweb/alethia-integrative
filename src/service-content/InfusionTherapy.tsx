@@ -2,9 +2,10 @@
 export default function InfusionTherapyContent() {
   return (
     <div className="text-slate-700 mt-4 space-y-6">
+
       <div className="border-l-4 border-[#C75A33] pl-6">
         <p className="text-[20px] font-semibold text-[rgb(38,69,123)]">IV Therapy and Infusions</p>
-        <p className="mt-2 text-slate-600">Delivering nutrients directly into your bloodstream where your cells can use them immediately.</p>
+        <p className="mt-2 text-slate-600">IV therapy can support energy, recovery, hydration, immune resilience, and nutrient repletion—especially when oral absorption is limited.</p>
       </div>
       
       <p className="text-slate-600 leading-relaxed">

@@ -6,7 +6,7 @@ export default function HormoneBalanceVitalityContent() {
       {/* Short intro for the grid layout */}
       <div className="border-l-4 border-[#C75A33] pl-6">
         <p className="text-[20px] font-semibold text-[rgb(38,69,123)]">Restore your foundation. Reclaim your energy, clarity, and drive.</p>
-        <p className="mt-2 text-slate-600">Built for men and women who want hormone optimization done comprehensively—not a quick prescription.</p>
+        <p className="mt-2 text-slate-600">Built for active adults who want to restore function and avoid surgery when possible.</p>
       </div>
 
       {/* The Problem - Brief */}

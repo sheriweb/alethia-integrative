@@ -109,15 +109,6 @@ export default function About() {
                 hospital medicine, emergency rooms. He's held clinical professorships at three 
                 universities. He's deployed with the Army National Guard to Iraq and Afghanistan.
               </p>
-              <p>
-                He's seen medicine at its best, and watched it fail the people who needed it most.
-              </p>
-              <p>
-                He built Aletheia Integrative Medical because he got tired of watching driven, 
-                intelligent people get stuck in a system that wasn't designed for them. People 
-                who deserved real answers, not dismissive shrugs. People who wanted a partner, 
-                not a prescription pad.
-              </p>
             </div>
 
             {/* Pull Quote */}

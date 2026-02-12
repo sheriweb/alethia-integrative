@@ -413,7 +413,7 @@ export default function Home() {
                       <h3 className="text-white text-[20px] md:text-[22px]">Jaime K Dodge, MD</h3>
                     </Link>
                     <p className="mt-4 text-white/80 text-[14px] leading-relaxed max-w-[300px] mx-auto">
-                      Dr. Jaime Dodge spent 20+ years inside the conventional system. Family practice, hospital medicine, emergency rooms. He's held clinical professorships at three universities. He's deployed with the Army National Guard to Iraq and Afghanistan. He built Aletheia for people who expect high standards, clear thinking, and results-driven medicine.
+                      Dr. Jaime Dodge spent 20+ years inside the conventional system. Family practice, hospital medicine, emergency rooms. He's held clinical professorships at three universities. He's deployed with the Army National Guard to Iraq and Afghanistan.
                     </p>
                     <hr className="mt-4 mb-4 h-[2px] w-48 bg-[#C75A33]/60 border-0 mx-auto" />
                     <Link to="/providers" className="inline-block px-6 py-3 text-white uppercase tracking-[0.1em] bg-[#C75A33] hover:bg-[#B3502E] transition-colors duration-200">
@@ -429,7 +429,7 @@ export default function Home() {
               He's seen medicine at its best, and watched it fail the people who needed it most.
             </p>
             <p className="text-gray-700 text-[17px] leading-[1.8] mb-8">
-              He built Aletheia Integrative Medical because he got tired of watching driven, intelligent people get stuck in a system that wasn't designed for them. People who deserved real answers, not dismissive shrugs. People who wanted a partner, not a prescription pad.
+              
             </p>
             <blockquote className="text-[20px] md:text-[24px] text-[rgb(38,69,123)] italic leading-relaxed">
               "My patients aren't broken. They're stuck in a broken system. Aletheia exists to give them something better."
