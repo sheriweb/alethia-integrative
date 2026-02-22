@@ -123,6 +123,7 @@ export default function Header() {
             <NavLink to="/blog" className={linkClass}>Blog</NavLink>
             <a href="https://aletheiawellness.com/" target="_blank" rel="noopener noreferrer" className={linkClass}>Supplements</a>
             <NavLink to="/contact-us" className={linkClass}>Contact</NavLink>
+            <NavLink to="/payment-plans" className={linkClass}>Payment Plans</NavLink>
           </nav>
 
           {/* Action buttons */}
@@ -183,6 +184,7 @@ export default function Header() {
           <NavLink to="/blog" className="block py-3 text-sm uppercase tracking-wider text-white" onClick={() => setMobileOpen(false)}>Blog</NavLink>
           <a href="https://aletheiawellness.com/" target="_blank" rel="noopener noreferrer" className="block py-3 text-sm uppercase tracking-wider text-white">Supplements</a>
           <NavLink to="/contact-us" className="block py-3 text-sm uppercase tracking-wider text-white" onClick={() => setMobileOpen(false)}>Contact</NavLink>
+          <NavLink to="/payment-plans" className="block py-3 text-sm uppercase tracking-wider text-white" onClick={() => setMobileOpen(false)}>Payment Plans</NavLink>
           <div className="mt-4 space-y-2">
             <NavLink
               to="/book-online"

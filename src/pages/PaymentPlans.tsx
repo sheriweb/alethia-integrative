@@ -8,44 +8,45 @@ export default function PaymentPlans() {
   });
 
   useEffect(() => {
-    // Load Cherry widget script
-    const script = document.createElement('script');
-    script.id = '_hw';
-    script.src = 'https://files.withcherry.com/widgets/widget.js';
-    script.async = true;
-    
-    script.onload = () => {
-      // Initialize Cherry widget
-      if (window._hw) {
-        window._hw('init', {
-          debug: false,
-          variables: {
-            slug: 'aletheia-integrative-medical-llc',
-            name: 'Aletheia Integrative Medical',
-            images: [6],
-            customLogo: 'https://sa1s3optim.patientpop.com/filters:format(webp)/sc-assets/prd/practices/01e81043-25b6-46c2-bd88-dc1830708de7/Aletheia-Integrative-white-orange-LOGO-wide-1-1693232568127.png',
-            defaultPurchaseAmount: 1000,
-            customImage: '',
-            imageCategory: 'other',
-            language: 'en',
-          },
-          styles: {
-            primaryColor: '#26457B',
-            secondaryColor: '#26457b10',
-            fontFamily: 'Open Sans',
-            headerFontFamily: 'Open Sans',
-          }
-        }, ['hero', 'calculator', 'howitworks', 'faq']);
-      }
-    };
-
-    document.body.appendChild(script);
-
     // Load Google Fonts for Cherry widget
     const link = document.createElement('link');
     link.href = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@200..900&family=Slabo+27px:wght@200..900&family=Lato:wght@200..900&family=Raleway:wght@200..900&family=Montserrat:wght@200..900&family=Oswald:wght@200..900&family=Poppins:wght@200..900&family=Source+Sans+Pro:wght@200..900&family=PT+Sans:wght@200..900&family=Open+Sans:wght@200..900&display=swap';
     link.rel = 'stylesheet';
     document.head.appendChild(link);
+
+    // Initialize Cherry widget using their IIFE pattern
+    (function (w: any, d: Document, s: string, o: string, f: string, js: HTMLScriptElement, fjs: HTMLScriptElement | null) {
+      w[o] = w[o] || function () {
+        (w[o].q = w[o].q || []).push(arguments);
+      };
+      js = d.createElement(s) as HTMLScriptElement;
+      fjs = d.getElementsByTagName(s)[0] as HTMLScriptElement;
+      js.id = o;
+      js.src = f;
+      js.async = true;
+      fjs.parentNode!.insertBefore(js, fjs);
+    })(window, document, "script", "_hw", "https://files.withcherry.com/widgets/widget.js", {} as HTMLScriptElement, null);
+    
+    // Initialize Cherry widget configuration
+    window._hw("init", {
+      debug: false,
+      variables: {
+        slug: 'aletheia-integrative-medical-llc',
+        name: 'Aletheia Integrative Medical',
+        images: [6],
+        customLogo: 'https://sa1s3optim.patientpop.com/filters:format(webp)/sc-assets/prd/practices/01e81043-25b6-46c2-bd88-dc1830708de7/Aletheia-Integrative-white-orange-LOGO-wide-1-1693232568127.png',
+        defaultPurchaseAmount: 1000,
+        customImage: '',
+        imageCategory: 'other',
+        language: 'en',
+      },
+      styles: {
+        primaryColor: '#26457B',
+        secondaryColor: '#26457b10',
+        fontFamily: 'Open Sans',
+        headerFontFamily: 'Open Sans',
+      }
+    }, ['hero', 'calculator', 'howitworks', 'faq']);
 
     // Cleanup on unmount
     return () => {
@@ -55,6 +56,10 @@ export default function PaymentPlans() {
       }
       if (link.parentNode) {
         link.remove();
+      }
+      // Clean up window._hw
+      if (window._hw) {
+        delete window._hw;
       }
     };
   }, []);
