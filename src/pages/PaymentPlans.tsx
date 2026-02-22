@@ -8,8 +8,15 @@ export default function PaymentPlans() {
   });
 
   useEffect(() => {
-    // Check if widget is already loaded
-    if (window._hw && typeof window._hw === 'function') {
+    // Check if script is already loaded
+    const existingScript = document.getElementById('_hw');
+    if (existingScript) {
+      console.log('Cherry widget script already exists');
+      return;
+    }
+
+    // Check if widget is already initialized
+    if (window._hw) {
       console.log('Cherry widget already initialized');
       return;
     }
@@ -57,21 +64,7 @@ export default function PaymentPlans() {
       }
     }, ['hero', 'calculator', 'howitworks', 'faq']);
 
-    // Cleanup on unmount
-    return () => {
-      const scriptElement = document.getElementById('_hw');
-      if (scriptElement) {
-        scriptElement.remove();
-      }
-      const fontLink = document.getElementById('cherry-fonts');
-      if (fontLink && fontLink.parentNode) {
-        fontLink.remove();
-      }
-      // Clean up window._hw
-      if (window._hw) {
-        delete window._hw;
-      }
-    };
+    // No cleanup - let the widget persist across navigation
   }, []);
 
   return (
