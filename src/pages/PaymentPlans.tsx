@@ -8,11 +8,20 @@ export default function PaymentPlans() {
   });
 
   useEffect(() => {
+    // Check if widget is already loaded
+    if (window._hw && typeof window._hw === 'function') {
+      console.log('Cherry widget already initialized');
+      return;
+    }
+
     // Load Google Fonts for Cherry widget
     const link = document.createElement('link');
     link.href = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@200..900&family=Slabo+27px:wght@200..900&family=Lato:wght@200..900&family=Raleway:wght@200..900&family=Montserrat:wght@200..900&family=Oswald:wght@200..900&family=Poppins:wght@200..900&family=Source+Sans+Pro:wght@200..900&family=PT+Sans:wght@200..900&family=Open+Sans:wght@200..900&display=swap';
     link.rel = 'stylesheet';
-    document.head.appendChild(link);
+    link.id = 'cherry-fonts';
+    if (!document.getElementById('cherry-fonts')) {
+      document.head.appendChild(link);
+    }
 
     // Initialize Cherry widget using their IIFE pattern
     (function (w: any, d: Document, s: string, o: string, f: string, js: HTMLScriptElement, fjs: HTMLScriptElement | null) {
@@ -54,8 +63,9 @@ export default function PaymentPlans() {
       if (scriptElement) {
         scriptElement.remove();
       }
-      if (link.parentNode) {
-        link.remove();
+      const fontLink = document.getElementById('cherry-fonts');
+      if (fontLink && fontLink.parentNode) {
+        fontLink.remove();
       }
       // Clean up window._hw
       if (window._hw) {
