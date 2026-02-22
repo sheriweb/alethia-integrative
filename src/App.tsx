@@ -24,6 +24,7 @@ import YourPrivacy from './pages/YourPrivacy'
 import AccessibilityStatement from './pages/AccessibilityStatement'
 import YourJourney from './pages/YourJourney'
 import LetsTalk from './pages/LetsTalk'
+import PaymentPlans from './pages/PaymentPlans'
 import NotFound from './pages/NotFound'
 import './App.css'
 
@@ -56,6 +57,7 @@ export default function App() {
         <Route path="accessibility-statement" element={<AccessibilityStatement />} />
         <Route path="your-journey" element={<YourJourney />} />
         <Route path="lets-talk" element={<LetsTalk />} />
+        <Route path="payment-plans" element={<PaymentPlans />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
