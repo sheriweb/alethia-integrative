@@ -1678,7 +1678,7 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
   {
     id: 18,
     title: "When Your MRI Is Normal but the Pain Isn't: How Thermography Can Reveal What Other Tests Miss",
-    date: "2026-02-02",
+    date: "2026-02-15",
     excerpt: "There is a particular kind of frustration that comes from being told everything looks 'normal' while your body tells a very different story. Learn how functional thermography helps uncover inflammation and pain patterns when MRI and other imaging come back normal.",
     slug: "when-your-mri-is-normal-but-the-pain-isnt-how-thermography-can-reveal-what-other-tests-miss",
     image: "/images/blog/mri.jpg",
