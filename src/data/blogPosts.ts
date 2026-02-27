@@ -1555,7 +1555,7 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
   {
     id: 17,
     title: "What Thermography Can Reveal About Chronic Pain and Inflammation That Other Tests Often Miss",
-    date: "2026-02-27",
+    date: "2026-02-01",
     excerpt: "If you've been living with chronic pain or inflammation, you already know how exhausting the search for answers can be. Learn how thermography helps detect chronic pain and inflammation patterns when traditional imaging falls short.",
     slug: "what-thermography-can-reveal-about-chronic-pain-and-inflammation",
     image: "/images/blog/thermography-chronic-pain.png",
@@ -1674,6 +1674,172 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
     metaTitle: "Thermography for Chronic Pain & Inflammation in Lincoln, NE",
     metaDescription: "Learn how thermography helps detect chronic pain and inflammation patterns when traditional imaging falls short at Aletheia Integrative in Lincoln, NE.",
     keywords: "thermography for chronic pain Lincoln NE, thermal imaging for inflammation Lincoln Nebraska, chronic inflammation detection thermography Lincoln NE"
+  },
+  {
+    id: 18,
+    title: "When Your MRI Is Normal but the Pain Isn't: How Thermography Can Reveal What Other Tests Miss",
+    date: "2026-02-02",
+    excerpt: "There is a particular kind of frustration that comes from being told everything looks 'normal' while your body tells a very different story. Learn how functional thermography helps uncover inflammation and pain patterns when MRI and other imaging come back normal.",
+    slug: "when-your-mri-is-normal-but-the-pain-isnt-how-thermography-can-reveal-what-other-tests-miss",
+    image: "/images/blog/mri.jpg",
+    content: `<p>There is a particular kind of frustration that comes from being told everything looks "normal" while your body tells a very different story. You go through the appointments. You lie still in the scanner. You wait for results. Then the report comes back—and according to the imaging, nothing is wrong.</p>
+
+<p>Yet the pain is still there.</p>
+
+<p>At Aletheia Integrative, we meet people every week who are living in this gap between symptoms and answers. They are not imagining their discomfort. They are not exaggerating. They are simply experiencing pain that does not fit neatly into a structural diagnosis.</p>
+
+<p>This is where <strong>thermography when MRI is normal in Lincoln NE</strong> becomes such a valuable diagnostic tool. Thermography doesn't ask, "Is there a tear or fracture?" Instead, it asks, "How is your body functioning right now?"</p>
+
+<p>And that question often changes everything.</p>
+
+<h2>Why "Normal Imaging" Doesn't Always Mean Nothing Is Wrong</h2>
+<p>Traditional imaging tools like MRI, CT scans, and X-rays are designed to detect structural abnormalities. They are excellent at identifying fractures, herniated discs, tumors, or advanced joint degeneration. But pain does not always originate from structural damage.</p>
+
+<p>Many pain conditions are driven by:</p>
+<ul>
+  <li>inflammation</li>
+  <li>nerve irritation</li>
+  <li>vascular changes</li>
+  <li>autonomic nervous system imbalance</li>
+  <li>early tissue stress that hasn't caused visible damage yet</li>
+</ul>
+
+<p>When these processes are present, imaging can appear normal even though the body is clearly signaling distress.</p>
+
+<p>This disconnect often leaves patients feeling dismissed or confused. The pain is real, but the test results don't validate it. Over time, that uncertainty can erode confidence and delay effective care.</p>
+
+<h2>The Difference Between Structural and Functional Imaging</h2>
+<p><strong>Structural imaging</strong> answers the question: What does the body look like?</p>
+<p><strong>Functional imaging</strong> answers the question: What is the body doing?</p>
+
+<p>Thermography is a form of functional imaging. It measures heat patterns on the surface of the body, which reflect underlying blood flow, inflammation, and nerve activity.</p>
+
+<p>Changes in temperature often occur before structural damage develops. In many cases, inflammation and nerve irritation are present long before tissue breakdown appears on an MRI.</p>
+
+<p>That is why <strong>functional thermography scan in Lincoln NE</strong> can provide insight when other tests fall short.</p>
+
+<h2>How Thermography Detects What MRIs Cannot</h2>
+<p>Thermography uses infrared technology to capture temperature differences across the body. These differences are not random. They follow patterns that correspond to physiology.</p>
+
+<p>Inflamed tissue generates more heat due to increased blood flow and metabolic activity. Areas with nerve dysfunction or restricted circulation may appear cooler. Symmetry matters—when one side of the body behaves differently than the other, it often signals dysfunction.</p>
+
+<p>Unlike MRI, thermography does not require contrast agents, radiation, or invasive procedures. It simply observes how the body is functioning in real time.</p>
+
+<h2>Unexplained Pain Often Has a Functional Cause</h2>
+<p>Many patients with unexplained pain have been told that stress, age, or posture is the likely cause. While these factors can contribute, they rarely tell the full story.</p>
+
+<p>Pain that persists without structural findings is often linked to:</p>
+<ul>
+  <li>chronic low-grade inflammation</li>
+  <li>nerve sensitization</li>
+  <li>vascular dysregulation</li>
+  <li>autonomic imbalance</li>
+  <li>unresolved post-injury inflammation</li>
+</ul>
+
+<p>These processes can remain invisible on traditional imaging but show up clearly on thermographic scans.</p>
+
+<p>This makes <strong>alternative imaging for unexplained pain Lincoln Nebraska</strong> an important step for patients who feel stuck.</p>
+
+<h2>The Nervous System's Role in "Invisible" Pain</h2>
+<p>The nervous system controls blood flow, temperature regulation, and inflammatory response. When it becomes dysregulated, pain signals can persist even after tissues have healed.</p>
+
+<p>Thermography often reveals temperature patterns consistent with sympathetic nervous system dominance or nerve irritation. These findings help explain why pain continues despite normal structural imaging.</p>
+
+<p>Understanding this connection allows care to shift from symptom suppression to system regulation.</p>
+
+<h2>Why Many Chronic Pain Patients Feel Dismissed</h2>
+<p>One of the hardest parts of unexplained pain is not being believed—by providers, employers, or even family members. When imaging reports say "normal," pain can be minimized.</p>
+
+<p>At Aletheia Integrative, we believe pain is information. If symptoms persist, the body is communicating something important.</p>
+
+<p>Thermography provides objective data that supports patient experience. It helps transform vague symptoms into measurable patterns.</p>
+
+<h2>What a Functional Thermography Scan Adds to the Diagnostic Process</h2>
+<p>Thermography does not replace MRI or other imaging. It complements them.</p>
+
+<p>When structural imaging is normal but symptoms persist, thermography can:</p>
+<ul>
+  <li>identify active inflammation</li>
+  <li>reveal nerve-related patterns</li>
+  <li>highlight circulatory imbalances</li>
+  <li>show asymmetries related to pain distribution</li>
+  <li>help guide next diagnostic or treatment steps</li>
+</ul>
+
+<p>This layered approach improves accuracy and reduces unnecessary trial-and-error care.</p>
+
+<h2>Common Scenarios Where Thermography Helps</h2>
+<p>Thermography is especially useful for people who:</p>
+<ul>
+  <li>have chronic pain with normal MRI findings</li>
+  <li>experience symptoms that move or fluctuate</li>
+  <li>have pain that worsens without clear injury</li>
+  <li>feel symptoms don't match imaging results</li>
+  <li>want a functional explanation for discomfort</li>
+</ul>
+
+<p>In these cases, thermography often provides clarity where uncertainty has lingered.</p>
+
+<h2>Why Timing Matters in Functional Imaging</h2>
+<p>Waiting for structural damage to appear before acting can delay care. By the time changes show up on MRI, inflammation may already be advanced.</p>
+
+<p>Thermography allows earlier insight into functional stress, making it possible to intervene before permanent damage occurs.</p>
+
+<p>This proactive perspective aligns with Aletheia Integrative's focus on prevention and whole-person care.</p>
+
+<h2>What the Thermography Experience Is Like</h2>
+<p>Thermography is non-invasive, comfortable, and radiation-free. The scan captures thermal images under standardized conditions to ensure accuracy.</p>
+
+<p>Patients often find the experience reassuring because it provides new information without additional strain on the body.</p>
+
+<p>More importantly, the results open the door to meaningful conversations about next steps.</p>
+
+<h2>Using Thermography to Guide Integrative Care</h2>
+<p>At Aletheia Integrative, thermography is part of a larger diagnostic ecosystem. We combine findings with clinical evaluation, patient history, and other testing to build a comprehensive care plan.</p>
+
+<p>Thermography helps us determine:</p>
+<ul>
+  <li>where inflammation is active</li>
+  <li>whether pain patterns align with nerve or vascular involvement</li>
+  <li>how the body is responding to current care</li>
+  <li>whether adjustments are needed</li>
+</ul>
+
+<p>This reduces guesswork and improves outcomes.</p>
+
+<h2>Why Functional Answers Bring Emotional Relief</h2>
+<p>When pain finally has an explanation, something shifts emotionally. Patients often feel validated, calmer, and more hopeful.</p>
+
+<p>Understanding why pain exists reduces fear. It transforms pain from a mystery into a manageable condition.</p>
+
+<p>Thermography helps replace frustration with understanding—and understanding leads to empowerment.</p>
+
+<h2>Why Aletheia Integrative Uses Thermography Thoughtfully</h2>
+<p>We do not use thermography as a standalone diagnosis. We use it as a lens—one that reveals patterns that other tools cannot.</p>
+
+<p>Our goal is not to overwhelm patients with data, but to provide insight that leads to better decisions.</p>
+
+<p>We believe diagnostics should guide care, not confuse it.</p>
+
+<h2>When It's Time to Look Beyond "Normal" Results</h2>
+<p>If your pain persists despite normal imaging, it does not mean you are out of options. It means you may need a different perspective.</p>
+
+<p><strong>Thermography when MRI is normal in Lincoln NE</strong> offers that perspective by focusing on function rather than structure.</p>
+
+<p>For many patients, it is the missing piece that helps everything else make sense.</p>
+
+<h2>Conclusion</h2>
+<p>Normal imaging does not always equal normal function. Pain can exist long before structural damage appears, and ignoring that reality can delay effective care.</p>
+
+<p>At Aletheia Integrative, we use <strong>functional thermography scan Lincoln NE</strong> to uncover patterns that explain symptoms when traditional tests come back inconclusive. Through <strong>alternative imaging for unexplained pain Lincoln Nebraska</strong>, we help patients move from uncertainty to clarity and from frustration to direction.</p>
+
+<p>If you've been told everything looks normal but still don't feel well, the next step may be seeing your body through a different lens.</p>
+
+<p><a href="https://www.aletheia.md/book-online">Click here to set up a consultation</a> and learn how thermography can help uncover what other tests may have missed.</p>`,
+    metaTitle: "Thermography When MRI Is Normal in Lincoln, NE",
+    metaDescription: "Learn how functional thermography helps uncover inflammation and pain patterns when MRI and other imaging come back normal at Aletheia Integrative in Lincoln, NE.",
+    keywords: "thermography when MRI is normal Lincoln NE, alternative imaging for unexplained pain Lincoln Nebraska, functional thermography scan Lincoln NE"
   }
 ]
 
