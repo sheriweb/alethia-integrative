@@ -1847,7 +1847,7 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
     date: "2026-03-06",
     excerpt: "For many couples, the decision doesn't start with convenience. It starts with concern about side effects, hormone changes, and the toll years of birth control may have taken. Learn the medical reasons why vasectomy is one of the safest long-term contraceptive options.",
     slug: "7-medical-reasons-vasectomy-may-be-healthiest-long-term-birth-control-choice",
-    image: "/images/blog/vasectomy-medical-benefits.jpg",
+    image: "/images/blog/vasectomy-medical-benefits.png",
     content: `<p>For many couples, the decision doesn't start with convenience. It starts with concern.</p>
 
 <p>It starts with conversations late at night about side effects. About hormone changes. About the toll years of birth control may have taken on one partner's body. It starts with the realization that if your family is complete, continuing temporary contraception may not make medical sense anymore.</p>
@@ -1951,7 +1951,7 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
     date: "2026-03-06",
     excerpt: "There are conversations that feel routine. And then there are conversations that quietly shape the rest of your life. Learn how to approach a vasectomy conversation with your partner thoughtfully, respectfully, and in a way that strengthens your relationship.",
     slug: "how-to-talk-to-your-partner-about-vasectomy",
-    image: "/images/blog/couple-discussing-vasectomy.jpg",
+    image: "/images/blog/couple-discussing-vasectomy.png",
     content: `<p>There are conversations that feel routine. And then there are conversations that quietly shape the rest of your life.</p>
 
 <p>Talking about permanent birth control falls into that second category.</p>
