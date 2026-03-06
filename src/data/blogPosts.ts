@@ -1944,8 +1944,9 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
     metaTitle: "Medical Benefits of Vasectomy in Lincoln, NE | Aletheia Integrative",
     metaDescription: "Discover the medical benefits and long-term health effects of vasectomy and why many couples in Lincoln, NE choose it over other birth control options.",
     keywords: "medical benefits of vasectomy Lincoln NE, is vasectomy safer than birth control Lincoln Nebraska, long term health effects of vasectomy Lincoln NE"
-  },
-  {
+  }
+  // 📅 Uncomment on March 15, 2026
+  /* {
     id: 20,
     title: "How to Talk to Your Partner About Vasectomy",
     date: "2026-03-15",
@@ -2092,7 +2093,7 @@ A: Because it's part of our <strong>Direct Primary Care model</strong>, treatmen
     metaTitle: "How to Talk About Vasectomy With Your Partner in Lincoln, NE",
     metaDescription: "Learn how to approach a vasectomy conversation with your partner in Lincoln, NE and make a confident, shared decision about permanent birth control.",
     keywords: "how to talk about vasectomy Lincoln NE, deciding on vasectomy with partner Lincoln Nebraska, vasectomy discussion guide Lincoln NE"
-  }
+  } */
 ]
 
 export default blogPosts
